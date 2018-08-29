@@ -23,6 +23,7 @@
 *.rar
 
 */target
+*/*/target
 .idea/
 
 
@@ -57,7 +58,7 @@
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
 # .idea/modules.xml
-# .idea/*.iml
+.idea/*.iml
 # .idea/modules
 
 # CMake
@@ -89,6 +90,4 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-
-
 
